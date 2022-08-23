@@ -4,7 +4,6 @@
 <dict>
 	<key>### GA-AB350M-DS3H-Hackintosh (OPENCORE 0.8.3)</key>
 	<string>
-	### GA-AB350M-DS3H-Hackintosh (OPENCORE 0.8.3)
 ### Before you give this EFI a try, make sure you read [this](#set-cpu-core-count), [this](#generating-your-own-serial-and-editing-rom)
 
 This repo includes an OpenCore EFI for the GA-AB350M-DS3H motherboard running macOS Big Sur and Monterey.
