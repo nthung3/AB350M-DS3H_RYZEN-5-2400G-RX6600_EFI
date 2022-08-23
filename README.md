@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># GA-AB350M-DS3H-Hackintosh (OPENCORE 0.8.3)</key>
+	<key>### GA-AB350M-DS3H-Hackintosh (OPENCORE 0.8.3)</key>
 	<string>
  
 ### Before you give this EFI a try, make sure you read [this](#set-cpu-core-count), [this](#generating-your-own-serial-and-editing-rom)
